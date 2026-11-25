@@ -13,8 +13,16 @@
       "ink": "#f7d879",
       "cover": "/covers/guns-n-roses-appetite.jpg",
       "tracks": [
-        { "title": "Paradise City", "src": "/audio/guns-n-roses/01-paradise-city.mp3", "duration": "6:46" },
-        { "title": "Welcome to the Jungle", "src": "/audio/guns-n-roses/02-welcome-to-the-jungle.mp3", "duration": "4:33" }
+        {
+          "title": "Paradise City",
+          "src": "/audio/guns-n-roses/01-paradise-city.mp3",
+          "duration": "6:46"
+        },
+        {
+          "title": "Welcome to the Jungle",
+          "src": "/audio/guns-n-roses/02-welcome-to-the-jungle.mp3",
+          "duration": "4:33"
+        }
       ]
     },
     {
@@ -28,9 +36,21 @@
       "ink": "#f3f3ee",
       "cover": "/covers/acdc-back-in-black.jpg",
       "tracks": [
-        { "title": "Back in Black", "src": "/audio/acdc/01-back-in-black.mp3", "duration": "4:15" },
-        { "title": "Shoot to Thrill", "src": "/audio/acdc/02-shoot-to-thrill.mp3", "duration": "5:17" },
-        { "title": "Hells Bells", "src": "/audio/acdc/03-hells-bells.mp3", "duration": "5:12" }
+        {
+          "title": "Back in Black",
+          "src": "/audio/acdc/01-back-in-black.mp3",
+          "duration": "4:15"
+        },
+        {
+          "title": "Shoot to Thrill",
+          "src": "/audio/acdc/02-shoot-to-thrill.mp3",
+          "duration": "5:17"
+        },
+        {
+          "title": "Hells Bells",
+          "src": "/audio/acdc/03-hells-bells.mp3",
+          "duration": "5:12"
+        }
       ]
     },
     {
@@ -44,7 +64,11 @@
       "ink": "#18181c",
       "cover": "/covers/taylor-reputation.jpg",
       "tracks": [
-        { "title": "Look What You Made Me Do", "src": "/audio/taylor-swift/01-look-what-you-made-me-do.mp3", "duration": "3:31" }
+        {
+          "title": "Look What You Made Me Do",
+          "src": "/audio/taylor-swift/01-look-what-you-made-me-do.mp3",
+          "duration": "3:31"
+        }
       ]
     },
     {
@@ -58,7 +82,11 @@
       "ink": "#07130c",
       "cover": "/covers/ed-sheeran-x.jpg",
       "tracks": [
-        { "title": "Don't", "src": "/audio/ed-sheeran/01-dont.mp3", "duration": "3:39" }
+        {
+          "title": "Don't",
+          "src": "/audio/ed-sheeran/01-dont.mp3",
+          "duration": "3:39"
+        }
       ]
     },
     {
@@ -72,7 +100,11 @@
       "ink": "#17242a",
       "cover": "/covers/queen-greatest-hits-ii.jpg",
       "tracks": [
-        { "title": "Bohemian Rhapsody", "src": "/audio/queen/01-bohemian-rhapsody.mp3", "duration": "5:58" }
+        {
+          "title": "Bohemian Rhapsody",
+          "src": "/audio/queen/01-bohemian-rhapsody.mp3",
+          "duration": "5:58"
+        }
       ]
     },
     {
@@ -86,7 +118,11 @@
       "ink": "#213d56",
       "cover": "/covers/pink-floyd-the-wall.jpg",
       "tracks": [
-        { "title": "Another Brick in the Wall, Pt. 1", "src": "/audio/pink-floyd/01-another-brick-in-the-wall-pt-1.mp3", "duration": "3:12" }
+        {
+          "title": "Another Brick in the Wall, Pt. 1",
+          "src": "/audio/pink-floyd/01-another-brick-in-the-wall-pt-1.mp3",
+          "duration": "3:12"
+        }
       ]
     },
     {
@@ -100,7 +136,11 @@
       "ink": "#211813",
       "cover": "/covers/bon-jovi-greatest-hits.jpg",
       "tracks": [
-        { "title": "Livin' on a Prayer", "src": "/audio/bon-jovi/01-livin-on-a-prayer.mp3", "duration": "4:11" }
+        {
+          "title": "Livin' on a Prayer",
+          "src": "/audio/bon-jovi/01-livin-on-a-prayer.mp3",
+          "duration": "4:11"
+        }
       ]
     },
     {
@@ -114,7 +154,11 @@
       "ink": "#17232b",
       "cover": "/covers/blue-swede-hooked-on-a-feeling.jpg",
       "tracks": [
-        { "title": "Hooked on a Feeling", "src": "/audio/blue-swede/01-hooked-on-a-feeling.mp3", "duration": "2:48" }
+        {
+          "title": "Hooked on a Feeling",
+          "src": "/audio/blue-swede/01-hooked-on-a-feeling.mp3",
+          "duration": "2:48"
+        }
       ]
     },
     {
@@ -128,12 +172,41 @@
       "ink": "#f2f2f2",
       "cover": "/covers/natan_e_ze.jpg",
       "tracks": [
-        { "title": "Nattan, Zé Vaqueiro - Aproveita Que Eu Tô Brigado", "src": "/audio/mix/Nattan, Zé Vaqueiro - Aproveita Que Eu Tô Brigado (Clipe Oficial)  DVD Paredão Do Nattan - Nattan.mp3", "duration": "2:35" },
-        { "title": "Noite Fracassada - Heitor Santos", "src": "/audio/mix/Noite Fracassada - Heitor Santos.mp3", "duration": "2:59" },
-        { "title": "Trocaria tudo - Marcos e Fernando", "src": "/audio/mix/Marcos e Fernando - Trocaria Tudo part. Henrique e Juliano ( Vídeo Oficial do DVD ) - Marcos e Fernando.mp3", "duration": "3:24" },
-        { "title": "Brand new day - Lorena Simpson", "src": "/audio/mix/BRAND NEW DAY VIDEO PROMO LORENA SIMPSON - Lorena Simpson.mp3", "duration": "4:25" },
-        { "title": "Baile do JV - Eduardinho dos Teclados", "src": "/audio/mix/Eduardinho dos Teclados - Baile do VJ (Clipe Oficial) - Eduardinho dos Teclados Oficial.mp3", "duration": "2:32" },
-        { "title": "Te amar te amar - Iguinho e", "src": "/audio/mix/TE AMAR TE AMAR - Iguinho e Lulinha (DVD Eu Falei Forró) - Iguinho e Lulinha.mp3", "duration": "2:32" }
+        {
+          "title": "Nattan, Zé Vaqueiro - Aproveita Que Eu Tô Brigado",
+          "src": "/audio/mix/Nattan, Zé Vaqueiro - Aproveita Que Eu Tô Brigado (Clipe Oficial)  DVD Paredão Do Nattan - Nattan.mp3",
+          "duration": "2:35"
+        },
+        {
+          "title": "Frente a Frente - Bruno e Marrone",
+          "src": "/audio/mix/Bruno & Marrone - Frente a Frente (Ao Vivo) - BrunoEMarroneVEVO.mp3",
+          "duration": "4:10"
+        },
+        {
+          "title": "Noite Fracassada - Heitor Santos",
+          "src": "/audio/mix/Noite Fracassada - Heitor Santos.mp3",
+          "duration": "2:59"
+        },
+        {
+          "title": "Trocaria tudo - Marcos e Fernando",
+          "src": "/audio/mix/Marcos e Fernando - Trocaria Tudo part. Henrique e Juliano ( Vídeo Oficial do DVD ) - Marcos e Fernando.mp3",
+          "duration": "3:24"
+        },
+        {
+          "title": "Brand new day - Lorena Simpson",
+          "src": "/audio/mix/BRAND NEW DAY VIDEO PROMO LORENA SIMPSON - Lorena Simpson.mp3",
+          "duration": "4:25"
+        },
+        {
+          "title": "Baile do JV - Eduardinho dos Teclados",
+          "src": "/audio/mix/Eduardinho dos Teclados - Baile do VJ (Clipe Oficial) - Eduardinho dos Teclados Oficial.mp3",
+          "duration": "2:32"
+        },
+        {
+          "title": "Te amar te amar - Iguinho e",
+          "src": "/audio/mix/TE AMAR TE AMAR - Iguinho e Lulinha (DVD Eu Falei Forró) - Iguinho e Lulinha.mp3",
+          "duration": "2:32"
+        }
       ]
     }
   ]
